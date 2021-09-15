@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4ckxi7VP6hR3EnhdsSdC6PvolAyKD9dhUxQLqLtRWCXjuVEPHLf8KzeOkVddZ8xf+TJ1qXduyuYTLyl1sQQEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niranjan\\source\\repos\\Banking\\BusinessWebAPI\\BusinessWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niranjan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Niranjan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Niranjan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Niranjan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Niranjan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Niranjan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
